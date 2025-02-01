@@ -3,7 +3,7 @@
 ## Bio
 <p>Aspiring innovator specializing in programming, robotics, and engineering.<br>
 Innovation is the goal—limits are for others.<br>
-The world of technology is ours to shape.<br>
+The world is ours to shape.<br>
 Let’s see what I can make next.</p>
 
 <br/>  
