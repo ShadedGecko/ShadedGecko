@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/ShadedGecko/ShadedGecko/blob/main/header.png)](https://github.com/ShadedGecko)
 
 ## Bio
+$${\color{green}Green}$$
 <p>Aspiring innovator specializing in programming, robotics, and engineering.<br>
 Innovation is the goal—limits are for others.<br>
 The world of technology is ours to shape.<br>
