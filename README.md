@@ -20,5 +20,5 @@
 
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=transparent&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=transparent&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E&card_width=315)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadedGecko&theme=dark&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=315&border=20C20E&dates=20C20E&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&excludeDaysLabel=20C20E&hide_total_contributions=true)](https://git.io/streak-stats)
