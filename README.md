@@ -1,10 +1,9 @@
 [![MasterHead](https://github.com/ShadedGecko/ShadedGecko/blob/main/header.png)](https://github.com/ShadedGecko)
 
 ## Bio
-<p>Aspiring entrepreneur specializing in programming, robotics, and engineering.
-I analyze, I adapt, and I evolve with each new line of code.
-Innovation is my primary directive—there are no limits to what can be built, only what has yet to be discovered.
-The world of technology is mine to shape.
+<p>Aspiring innovator specializing in programming, robotics, and engineering.<br>
+Innovation is the goal—limits are for others.<br>
+The world of technology is ours to shape.<br>
 Let’s see what I can make next.</p>
 
 <br/>  
