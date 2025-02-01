@@ -20,5 +20,5 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=transparent&title_color="20C20E")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=transparent&title_color=20C20E)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadedGecko&theme=shadow-purple)](https://git.io/streak-stats)
