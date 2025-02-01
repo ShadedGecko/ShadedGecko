@@ -24,4 +24,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadedGecko&theme=dark&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=315&border=20C20E&dates=20C20E&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&excludeDaysLabel=20C20E&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Other random stuff
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cf4kvc3776lsltitj6o5kvfzqi&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cf4kvc3776lsltitj6o5kvfzqi)
