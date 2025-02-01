@@ -1,6 +1,4 @@
 [![MasterHead](https://github.com/ShadedGecko/ShadedGecko/blob/main/header.png)](https://github.com/ShadedGecko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=midnight-purple)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadedGecko&theme=shadow-purple)](https://git.io/streak-stats)
 
 ## Languages and Tools  
 <div align="center">  
@@ -22,14 +20,5 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadedGecko&show_icons=true&theme=midnight-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadedGecko&theme=shadow-purple)](https://git.io/streak-stats)
